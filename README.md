@@ -1,4 +1,4 @@
-# TriviaComposeApp
+# TriviaComposeApp (In progress)
  Trivia app with Jetpack Compose
  
 ![1_HROxO8CCRWk-wOqKvPcDrQ](https://user-images.githubusercontent.com/55887438/204578506-c0acac4e-cc04-4689-97c8-f373f6b9fe03.png)
